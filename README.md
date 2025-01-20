@@ -23,6 +23,4 @@ An education company named X Education sells online courses to industry professi
 - lead_classifier_lr.ipynb : The python file showing coding and data analysis
 - Assignment Subjective Questions.pdf : Some subjective questions answered
 - lead_classifier_presentation.pdf : Final Presentation
-- Leads.csv : Data worked on
-- Leads Data Dictionary.xlsx : Data Dictionary
 - lead_classifier_summary.pdf : Summary on what's done in the entire py file
